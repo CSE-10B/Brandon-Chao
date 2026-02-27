@@ -1,4 +1,10 @@
 print("""
+      
+
+
+
+
+      
 Monday A        Monday B        Tuesday           Wednesday         Thursday          Friday
 -----------------------------------------------------------------------------------------------
 Dialogue II-B   English 10      Chemistry A       Modern World      Algebra II        Mandarin II
