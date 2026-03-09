@@ -1,7 +1,7 @@
 num = int(input("Enter a number (1-7): ")) #request user input from 1-7 
 
 if num == 1:
-    print("Monday")             #6 
+    print("Monday")             #correlates number with day of the week. 
 elif num == 2:
     print("Tuesday")
 elif num == 3:
