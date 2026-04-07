@@ -5,6 +5,6 @@ if len(char) == 1:
     if char.lower() in ['a','e','i','o','u']:
         print("this is a vowel")
     else:
-        print("this aint a vowel") 
+        print("this letter is not a vowel") 
 else: 
-    print("pls enter only one character")
+    print("please enter only one character")
